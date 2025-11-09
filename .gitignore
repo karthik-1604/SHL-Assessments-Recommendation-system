@@ -1,0 +1,14 @@
+﻿shl-env/
+.env
+.env.local
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
